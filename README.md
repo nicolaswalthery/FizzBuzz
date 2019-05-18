@@ -1,5 +1,8 @@
 # FizzBuzz in C and a bit of C++
 
+What does it do ?
+It is a simple program that can play Fizz Buzz for how many times you want it to.
+
 That program help me to learn how to:
 1) Use properly If and Else.
 2) The For iteration.
