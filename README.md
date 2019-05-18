@@ -1,4 +1,4 @@
-# FizzBuzz in C
+# FizzBuzz in C and a bit of C++
 
 That program help me to learn how to:
 1) Use properly If and Else.
