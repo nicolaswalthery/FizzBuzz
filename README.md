@@ -3,6 +3,7 @@
 What does it do ?
 It is a simple program that can play Fizz Buzz for how many times you want it to.
 
+# What did i learn?
 That program helps me to learn how to:
 1) Use properly If and Else.
 2) The For iteration.
